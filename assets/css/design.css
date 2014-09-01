@@ -1,0 +1,13 @@
+body {
+	margin-top: 15%;
+	margin-bottom: 1%;
+	background: none;
+}
+
+.background {
+  background: url('../images/rocket.png') no-repeat bottom right fixed;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain;
+}
